@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### **Midterm Exam Simulation**
 
 ---
@@ -126,3 +127,6 @@
    - Rebuild and push an updated Docker image with the tag:  
      `<your username>/midterm-project_simulation:v1.1.0`.  
 
+=======
+# midterm-tt4-project_simulation
+>>>>>>> 6e1912fd9ad428cd25e8aa121239788ff1510eaf
